@@ -9,5 +9,5 @@ form.addEventListener('submit', (event) => {
     localStorage.setItem('nome', nome);
     localStorage.setItem('ingresso', ingresso);
 
-    window.location.href = '../html/seu-ingresso.html';
+    window.location.href = 'seu-ingresso.html';
 });
