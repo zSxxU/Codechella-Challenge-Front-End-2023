@@ -4,7 +4,7 @@
 
 Esse projeto foi proposto como o desafio do Challenge Front End 2023, da Alura Cursos Online.
 
-Apelidado de Codechella, esse projeto consiste em um site com várias funcionalidades para um evento de música fictício. Além de 5 páginas funcionais, o site conta com uma página extra para demonstração de uma função em javaScript para simular um banco de dados e um design responsivo para diferentes tamanhos de tela usando a o conceito Mobile First.
+Apelidado de Codechella, esse projeto consiste em um site com várias funcionalidades para um evento de música fictício. Além de 5 páginas principais, o projeto conta com uma página extra para demonstração de uma função em javaScript para simular um banco de dados, o site também possui um design responsivo para diferentes dispositivos e tamanhos de tela usando o conceito Mobile First.
 
 <h2>Como acessar o projeto?</h2>
 
