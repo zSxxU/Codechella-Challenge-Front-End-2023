@@ -1,4 +1,4 @@
-<h1 align="center">Codechella</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/122501946/229009192-f042ac0f-a074-418c-9141-13265887e387.png"></h1>
 
 <h2>Descrição do projeto</h2>
 
